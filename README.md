@@ -36,7 +36,7 @@
 
 **1.** Press ``Windows + R`` and type in ``cmd``. Now press enter and a window should open.. 
 
-**2.** Enter ``pip install -U git+https://github.com/Pycord-Development/pycord`` and press enter.
+**2.** Enter ``pip install git+https://github.com/Pycord-Development/pycord`` and press enter.
 
 ─────────────────────────────────────────────────────────────────────────────────────
 
