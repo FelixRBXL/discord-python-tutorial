@@ -10,7 +10,7 @@
 
 *If you want, you can at a profile picutre (navigate to 'Bot' and change the profile picture from the bot. Also you can add a 'About Me' description (navigate to 'General Information' and enter your text in the field names 'DESCRIPTION (MAXIMUM 400 CHARACTERS)'.*
 
-─────────────────────────────────────────────────────────────────────────────────────
+───────────────────────────────────────────────────────────────────
 
 **Invite the bot to your server**
 
