@@ -18,7 +18,7 @@
 
 **2.** Copy the link belong and invite the bot to your server.
 
-─────────────────────────────────────────────────────────────────────────────────────
+───────────────────────────────────────────────────────────────────
 
 **Install Visual Studio Code, Python and git**
 
@@ -28,7 +28,7 @@
 
 *After downloading Visual Studio Code and Python, you have to run the file and install it.*
 
-─────────────────────────────────────────────────────────────────────────────────────
+───────────────────────────────────────────────────────────────────
 
 **Install Discord.py**
 
@@ -36,13 +36,13 @@
 
 **2.** Enter ``pip install discord.py`` and press enter.
 
-─────────────────────────────────────────────────────────────────────────────────────
+───────────────────────────────────────────────────────────────────
 
 **Create a folder and a file**
 
 **1.** Create a folder no matter where and open the folder in Visual Studio Code (click on 'File' and press 'Open Folder')
 **2.** Create a new file named ``bot.py``.
 
-─────────────────────────────────────────────────────────────────────────────────────
+───────────────────────────────────────────────────────────────────
 
 *Thanks for reading this file. Now you can open the file names ``bot.py`` from this repository.*
