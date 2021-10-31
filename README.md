@@ -39,6 +39,10 @@
 * Gehe auf 'Bot', was sich in der Seitenleiste befindet
 * Kopiere nun den Talk
 
+## 7. Wie installieren ich Module?
+
+* Wenn du ein neues Modul haben willst gib ganz einfach ``pip install [MODUL-NAME]`` in der Konsole ein. Diese öffnest du indem du ``Windows + R`` drückst und ``cmd`` eingibst.
+
 
 <p align="center">Nun gehe auf dein Ordner 'Tutorial' und klicke auf 'bot.py'. Dort wird dann alles weitere erklärt.</p>
 
