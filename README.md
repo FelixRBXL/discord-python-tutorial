@@ -40,7 +40,11 @@
 
 ─────────────────────────────────────────────────────────────────────────────────────
 
-**Setup the Bot**
+**Create a folder and a file**
 
 **1.** Create a folder no matter where and open the folder in Visual Studio Code (click on 'File' and press 'Open Folder')
 **2.** Create a new file named ``bot.py``.
+
+─────────────────────────────────────────────────────────────────────────────────────
+
+*Thanks for reading this file. Now you can open the file names ``bot.py`` from this repository.*
