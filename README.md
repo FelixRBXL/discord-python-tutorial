@@ -26,17 +26,15 @@
 
 **2.** Visit https://www.python.org/downloads/ and download the latest Version for your system.
 
-**3.** Visit https://gitforwindows.org and download Git for windows
-
-*After downloading Visual Studio Code, Python and Git, you have to run the file and install it.*
+*After downloading Visual Studio Code and Python, you have to run the file and install it.*
 
 ─────────────────────────────────────────────────────────────────────────────────────
 
-**Install Pycord**
+**Install Discord.py**
 
 **1.** Press ``Windows + R`` and type in ``cmd``. Now press enter and a window should open.. 
 
-**2.** Enter ``pip install git+https://github.com/Pycord-Development/pycord`` and press enter.
+**2.** Enter ``pip install discord.py`` and press enter.
 
 ─────────────────────────────────────────────────────────────────────────────────────
 
