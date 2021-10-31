@@ -21,10 +21,10 @@
 * Lade dir [Visual Studio Code](https://code.visualstudio.com) herunter.
 * Lade dir [Python](https://www.python.org/downloads/) herunter.
 
-## 4. Installieren von Discord.py 
+## 4. Installieren von Discord.py & asyncio
 
 * Öffne die Konsole indem du ``Windows + R`` drückst und ``cmd`` eingibst.
-* In diese Konsole gibst du dann ``pip install discord.py`` ein und alle nötigen Module werden heruntergeladen.
+* In diese Konsole gibst du dann ``pip install discord.py`` und ``pip install asyncio`` ein und alle nötigen Module werden heruntergeladen.
 
 ## 5. Datei & Ordner erstellen
 
