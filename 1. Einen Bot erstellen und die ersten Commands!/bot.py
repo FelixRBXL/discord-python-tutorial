@@ -28,8 +28,8 @@ async def hello(ctx, member:discord.Member=None):
 async def embed(ctx):
     embed=discord.Embed(title="Embed Title", description="Embed Description", color=0xff0000)
     embed.add_field(name="Field Name", value="Field Value", inline=False) # Wenn du willst, dass das Feld in der Reihe seinen soll, stelle das False auf True
-    embed.set_thumbnail(url="") # Setze in die Klammern die URL eines Bildes
-    embed.set_image(url="") # Setze in die Klammern die URL eines Bildes
+    embed.set_thumbnail(url="") # Setze in die Klammern die URL eines Bildes oder lösche diese Zeile
+    embed.set_image(url="") # Setze in die Klammern die URL eines Bildes oder lösche diese Zeile
     embed.set_footer(text="Embed Footer")
     await ctx.send(embed=embed)
 
