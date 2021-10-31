@@ -48,5 +48,5 @@
 
 ## Weitere Informationen & Credits
 
-* Bei Fragen und Ideen melde dich bitte im [Discord](https://discord.gg/Ws7vqQSMh3)
+* Bei Fragen, Ideen und Bugs melde dich bitte im [Discord](https://discord.gg/Ws7vqQSMh3)
 * Das gesamte Tutorial wurde von FelixRBXL erstellet.
