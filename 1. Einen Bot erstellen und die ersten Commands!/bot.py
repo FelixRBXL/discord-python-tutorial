@@ -1,4 +1,5 @@
 import discord
+from discord import *
 from discord.ext import *
 import asyncio
 
